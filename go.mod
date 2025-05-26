@@ -1,4 +1,4 @@
-module github.com/xakep666/mongo-migrate
+module github.com/trinio-labs/mongo-migrate
 
 go 1.20
 
